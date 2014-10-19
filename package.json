@@ -1,0 +1,27 @@
+{
+  "name": "z-observable",
+  "version": "0.0.1",
+  "description": "z-observable",
+  "main": "lib/z-observable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "z-lib": "*",
+    "z-lib-dom": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zibx/z-observable.git"
+  },
+  "keywords": [
+    "form",
+    "module"
+  ],
+  "author": "Zibx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zibx/z-observable/issues"
+  },
+  "homepage": "https://github.com/Zibx/z-observable"
+}
