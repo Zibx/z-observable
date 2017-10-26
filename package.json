@@ -1,14 +1,12 @@
 {
   "name": "z-observable",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "z-observable",
   "main": "lib/z-observable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "z-lib": "*",
-    "z-lib-dom": "*"
   },
   "repository": {
     "type": "git",
